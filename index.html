@@ -621,9 +621,12 @@
     <div id="app"></div>
 
     <script>
-        const API_URL = window.location.hostname === "localhost"
+        const API_URL =
+  window.location.hostname === "localhost" ||
+  window.location.hostname === "127.0.0.1"
     ? "http://127.0.0.1:8000"
-    : "https://ai-lab-retail-store-detection.onrender.com/";
+    : "https://ai-lab-retail-store-detection.onrender.com";
+
        
         const sampleImages = {
             'cam-1': '/images/testupload1.jpg',
