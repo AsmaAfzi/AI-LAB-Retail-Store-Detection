@@ -71,31 +71,7 @@ Or use requirements.txt:
 pip install -r requirements.txt
 ```
 
-### 3. Configure Roboflow API
 
-Update the `main.py` file with your Roboflow credentials:
-
-```python
-ROBOFLOW_API_KEY = "your_api_key_here"
-MODEL_ENDPOINT = "your_model_endpoint/version"
-```
-
-### 4. Prepare Image Directory
-
-Create an `images` folder in the root directory and add your sample images:
-
-```
-retail-inventory-scanner/
-├── images/
-│   ├── testupload1.jpg
-│   ├── testupload2.jpg
-│   ├── testupload3.jpg
-│   ├── bogus.png
-│   └── qrcode.png
-├── index.html
-├── main.py
-└── README.md
-```
 
 ## 🚀 Running the Application
 
