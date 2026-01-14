@@ -272,8 +272,7 @@ Update CSS variables in the `<style>` section:
 
 ## 👤 Authors
 
-**Your Name**
-- GitHub: [@AsmaAfzi](https://github.com/AsmaAfzi)
+- Asma Mohammad Afzal: [@AsmaAfzi](https://github.com/AsmaAfzi)
 - 
 
 
