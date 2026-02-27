@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 requests
 python-multipart
+=======
+fastapi
+uvicorn[standard]
+requests
+python-multipart
+>>>>>>> 331aa25994eb42f31ab0c50028493881cfbe78eb
