@@ -2,6 +2,10 @@
 
 An advanced computer vision system for real-time retail shelf monitoring using YOLOv8 object detection. This application automatically identifies products and detects empty shelf spaces, providing instant alerts for inventory management.
 
+## Live Demo
+
+Check out the live demo of the Retail Store Detection app here: [Demo Link](https://ai-lab-retail-store-detection.onrender.com/)
+
 ## 🎯 Features
 
 - **Real-Time Detection**: Continuously monitors shelf inventory with high accuracy
